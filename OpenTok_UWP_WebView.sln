@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTok_UWP_WebView", "OpenTok_UWP_WebView\OpenTok_UWP_WebView.csproj", "{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|ARM.Build.0 = Debug|ARM
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|x64.ActiveCfg = Debug|x64
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|x64.Build.0 = Debug|x64
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|x64.Deploy.0 = Debug|x64
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|x86.ActiveCfg = Debug|x86
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|x86.Build.0 = Debug|x86
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Debug|x86.Deploy.0 = Debug|x86
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|ARM.ActiveCfg = Release|ARM
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|ARM.Build.0 = Release|ARM
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|ARM.Deploy.0 = Release|ARM
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|x64.ActiveCfg = Release|x64
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|x64.Build.0 = Release|x64
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|x64.Deploy.0 = Release|x64
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|x86.ActiveCfg = Release|x86
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|x86.Build.0 = Release|x86
+		{7107B3B9-0C04-49C3-9940-16BBCABF4F5E}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C01F1581-80BF-4C1D-88F6-675470168BE1}
+	EndGlobalSection
+EndGlobal
